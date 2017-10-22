@@ -1,0 +1,52 @@
+				<html>
+
+					<head>
+						<title>THE SHIT</title>
+					
+					</head>
+					<body>
+						<h1 id="top">this is the shit</h1>
+						<h2>sjddjshdsjdhsjd</h2>
+						<p><em>whoahahahahahahaha</em></p>
+						<p>what is the <strong>problem</strong></p>
+						<p>this is <u>underlined</u></p>
+						<p>this is <sup>superscript</sup></p>
+						<p>this is <sub>subscript</sub></p>
+						<hr>
+						<p>here is <del>deleted</del> text</p>
+						<ul>
+							<li>this is a <strong>list</strong></li>
+							<li>and it <em>goes on</em></li>
+							<li>and on</li>
+							<li>and on</li>
+						</ul>
+						<ol type="I">
+						<li>what</li>
+						<li>is</li>
+						<li>this</li>
+						</ol>
+						<img src="homer.png" width="100">
+						<form>
+							<p>username: <input type="text" placeholder="Your username"></p>
+							<p>tickhere:<input type="checkbox"></p>
+							<p>click here <input type="button"></p>
+						<p>	fav food<select>
+							
+							<option>pizza</option>
+							<option>sandwitches</option>
+							<option selected>ice cream</option>
+						
+							</select></p>
+							<p><input type="submit"></p>
+						
+						
+						</form>
+						<p><a href="https://www.google.co.in"><img src="google.png" height="100"width="100"></a></p>
+						<p><img src="beat.gif" width="100" height="100"></p>
+					
+					<p><a href="#top">BACK TO TOP</p>
+						
+					
+					</body>
+
+				</html>
